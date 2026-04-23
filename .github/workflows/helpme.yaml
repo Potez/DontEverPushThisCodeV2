@@ -164,4 +164,4 @@ jobs:
               uses: actions/upload-artifact@v4
               with:
                 name: trivy-report
-                path: trivy-results.sarif
+                path: trivy-results.sarif 
